@@ -35,10 +35,11 @@ list1[4]=list1[4][:-1]
 
 p='''
 @@@@@@@@@@@  PROJECTWORLDS HOTEL AND RESORTS  @@@@@@@@@@@@@
-@@@@@@@@@@@@ BHILAI CHHATTISGARH@@@@@@@@@@@@@@
+@@@@@@@@@@@@ Zila Ghaziabad Uttar Pradesh @@@@@@@@@@@@@@
 @@@@@@@@@@ SERVING    GUEST   SINCE @@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@    ###2000###       @@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@    ### 2000 ###       @@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 NAME-%s
 ADDRESS-%s
 MOBILE NO.-%s
