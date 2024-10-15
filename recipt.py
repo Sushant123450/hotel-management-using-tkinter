@@ -34,7 +34,7 @@ list1[3]=list1[3][:-1]
 list1[4]=list1[4][:-1]
 
 p='''
-@@@@@@@@@@@  PROJECTWORLDS HOTEL AND RESORTS  @@@@@@@@@@@@@
+@@@@@@@@@@@  PROJECT WORLDS HOTEL AND RESORTS  @@@@@@@@@@@@@
 @@@@@@@@@@@@ Zila Ghaziabad Uttar Pradesh @@@@@@@@@@@@@@
 @@@@@@@@@@ SERVING    GUEST   SINCE @@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@    ### 2000 ###       @@@@@@@@@@@@@@@@@
